@@ -1,0 +1,1 @@
+TASKS_TABLE = "talks"

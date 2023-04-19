@@ -1,0 +1,10 @@
+[run]
+command_line=-m pytest
+source=pycon_catalogue
+branch=True
+
+[report]
+fail_under=94
+
+[json]
+pretty_print=True
